@@ -1,7 +1,12 @@
-def parrot(word="Squawk!")
- if word == nil
-  return "Pretty bird!"
+def word
+  word="Squawk!"
+end
+
+
+def parrot(word)
+ if == nil
+  return word
  else
-  puts word
+  puts "Pretty bird!"
   end
 end
