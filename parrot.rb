@@ -1,6 +1,6 @@
 def parrot(word="Squawk!")
  if word.nil?
-  return "Squawk!"
+  return "Pretty bird!"
  else
   puts word
   end
