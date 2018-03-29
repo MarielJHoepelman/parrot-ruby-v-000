@@ -1,5 +1,5 @@
 def parrot(word="Squawk!")
- if word.nil?
+ if word == nil
   return "Pretty bird!"
  else
   puts word
